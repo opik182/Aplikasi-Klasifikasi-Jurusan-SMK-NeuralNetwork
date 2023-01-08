@@ -3,4 +3,4 @@ pandas==1.5.2
 streamlit
 scikit-learn
 pip==22.3.1
-tensorflow==2.10.o
+tensorflow==2.10.0
